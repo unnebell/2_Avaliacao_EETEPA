@@ -50,6 +50,6 @@ avaliacoes = [78, 55, 92, 40, 88, 61, 73]
   - [x] Apresentar um relatório [Funcionário 1 - 90 - Excelente]  
   - [x] Gerar % por categoria [Excelente – 40%, Bom – 20%, Insatisfatório – 40%]  
     
-  Exemplo
+  Exemplo  
   <img width="447" height="275" alt="image" src="https://github.com/user-attachments/assets/21ec7f8a-4945-4f78-b41f-0d8a36d94fab" />
 
