@@ -3,8 +3,7 @@ produtos = []
 
 while True:
     try:
-        print("Digite apenas números!")
-        qtd_produtos = int(input("Digite a quantidades de produtos que deseja adicionar: "))
+        qtd_produtos = int(input("Digite a quantidade de produtos que deseja adicionar: "))
 
         for i in range(qtd_produtos):
             nome_produto = input("Digite o produto: ")
